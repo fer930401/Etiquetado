@@ -1,0 +1,46 @@
+﻿<%@ master language="C#" autoeventwireup="true" codebehind="Site.master.cs" inherits="Etiquetas.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="es">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DHL</title>
+    <webopt:bundlereference runat="server" path="~/Content/css" />
+    <link rel="shortcut icon" href="<%=ResolveUrl("~/Images/dhlA.ico") %>" />
+</head>
+<body>
+    <form runat="server">
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" runat="server" href="~/">
+                        <img alt="Brand" src="Images/dhl-logo.png" width="100" height="18">
+                    </a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a runat="server" href="Default.aspx">Home</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+            <hr />
+            <footer>
+                <p>&copy; <%: DateTime.Now.Year %> - DHL Sluppy Chain</p>
+            </footer>
+        </div>
+
+    </form>
+</body>
+</html>
