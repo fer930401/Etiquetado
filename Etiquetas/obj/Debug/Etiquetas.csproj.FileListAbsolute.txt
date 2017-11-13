@@ -21,3 +21,26 @@ c:\users\fer_9\documents\visual studio 2013\Projects\Etiquetas\Etiquetas\bin\es\
 c:\users\fer_9\documents\visual studio 2013\Projects\Etiquetas\Etiquetas\obj\Debug\Etiquetas.dll
 c:\users\fer_9\documents\visual studio 2013\Projects\Etiquetas\Etiquetas\obj\Debug\Etiquetas.pdb
 C:\Users\fer_9\Documents\Visual Studio 2013\Projects\Etiquetas\Etiquetas\obj\Debug\Etiquetas.csprojResolveAssemblyReference.cache
+C:\Users\fer_9\Documents\Repositorios\Etiquetado\Etiquetas\bin\Etiquetas.dll.config
+C:\Users\fer_9\Documents\Repositorios\Etiquetado\Etiquetas\bin\Etiquetas.dll
+C:\Users\fer_9\Documents\Repositorios\Etiquetado\Etiquetas\bin\Etiquetas.pdb
+C:\Users\fer_9\Documents\Repositorios\Etiquetado\Etiquetas\bin\Antlr3.Runtime.dll
+C:\Users\fer_9\Documents\Repositorios\Etiquetado\Etiquetas\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\fer_9\Documents\Repositorios\Etiquetado\Etiquetas\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\fer_9\Documents\Repositorios\Etiquetado\Etiquetas\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\fer_9\Documents\Repositorios\Etiquetado\Etiquetas\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\fer_9\Documents\Repositorios\Etiquetado\Etiquetas\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\fer_9\Documents\Repositorios\Etiquetado\Etiquetas\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\fer_9\Documents\Repositorios\Etiquetado\Etiquetas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fer_9\Documents\Repositorios\Etiquetado\Etiquetas\bin\Newtonsoft.Json.dll
+C:\Users\fer_9\Documents\Repositorios\Etiquetado\Etiquetas\bin\System.Web.Optimization.dll
+C:\Users\fer_9\Documents\Repositorios\Etiquetado\Etiquetas\bin\WebGrease.dll
+C:\Users\fer_9\Documents\Repositorios\Etiquetado\Etiquetas\bin\System.Web.Optimization.xml
+C:\Users\fer_9\Documents\Repositorios\Etiquetado\Etiquetas\bin\Antlr3.Runtime.pdb
+C:\Users\fer_9\Documents\Repositorios\Etiquetado\Etiquetas\bin\Newtonsoft.Json.xml
+C:\Users\fer_9\Documents\Repositorios\Etiquetado\Etiquetas\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\fer_9\Documents\Repositorios\Etiquetado\Etiquetas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\fer_9\Documents\Repositorios\Etiquetado\Etiquetas\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\fer_9\Documents\Repositorios\Etiquetado\Etiquetas\obj\Debug\Etiquetas.csprojResolveAssemblyReference.cache
+C:\Users\fer_9\Documents\Repositorios\Etiquetado\Etiquetas\obj\Debug\Etiquetas.dll
+C:\Users\fer_9\Documents\Repositorios\Etiquetado\Etiquetas\obj\Debug\Etiquetas.pdb
